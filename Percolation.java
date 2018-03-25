@@ -1,5 +1,3 @@
-import org.w3c.dom.css.DocumentCSS;
-
 public class Percolation {
     static boolean[][] visited;
     public static boolean doesItPercolate(boolean[][] system, int row, int col) {
